@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yourname-customer-analytics.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kagiso-customer-analytics.streamlit.app/)
 
 ## 📊 Project Overview
 
