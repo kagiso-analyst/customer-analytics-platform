@@ -73,4 +73,4 @@ if __name__ == "__main__":
     # Check what tables we created
     inspector = inspect(engine)
     tables = inspector.get_table_names()
-    print(f"📊 Created tables: {tables}")
+    print(f" Created tables: {tables}")
